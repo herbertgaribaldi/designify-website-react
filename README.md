@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+# :computer: Designify - Landing Page
+---
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div id="header" width="auto" heigth="auto" align="center">
 
-## Available Scripts
+![1](![github-header](https://user-images.githubusercontent.com/107329000/191317779-fc8e5c91-1cb4-4f1d-a8d3-e6010ec9e2af.png))
 
-In the project directory, you can run:
+</div>
 
-### `yarn start`
+---
+## :bulb: Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+:desktop_computer: Amazing React Project with Animations and Modal - Styled Components, Framer Motion. In this code you will see how to build a website in React.js using styled components. You can learn how to create a smooth scroll effect, react router, carousel and a responsive layout.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+---
+## :pushpin: Topics
 
-### `yarn test`
+:computer_mouse: 1. Initial Project; <br>
+:computer_mouse: 2. Global Styles; <br>
+:computer_mouse: 3. Setup Router; <br>
+:computer_mouse: 4. Navbar component; <br>
+:computer_mouse: 5. Hero component; <br>
+:computer_mouse: 6. Navbar; <br>
+:computer_mouse: 7. Feature section; <br>
+:computer_mouse: 8. Clients section; <br>
+:computer_mouse: 9. Content section; <br>
+:computer_mouse: 10. Animation and Framer motion; <br>
+:computer_mouse: 11. Footer component; <br>
+:computer_mouse: 12. Modal. <br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
+## :film_strip: Images
 
-### `yarn build`
+<div id="images-demo" width="auto" heigth="auto" align="center">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![demo1](![designify-desktop-version](https://user-images.githubusercontent.com/107329000/191318156-6f01a2fb-ddbb-448a-b30f-5f54c5bac073.png))
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![demo2](![designify-mobile-version](https://user-images.githubusercontent.com/107329000/191318207-b73572e5-24e8-4dc6-a15e-8d86050769fa.png))
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+</div>
 
-### `yarn eject`
+---
+## :hammer: Tech Stack
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+**:atom_symbol: React** <br>
+**:orange_book: JavaScript** <br>
+**:compass: Animation with Framer motion** <br>
+**:framed_picture: HTML and CSS** <br>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
+## :open_book: Installation
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+#### `$ git clone `
+ 
+    In the project directory, you can run: https://github.com/herbertgaribaldi/designify-website-react.git
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+#### `npm install`
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+    To install all dependences.
+ 
+#### `npm start`
+ 
+    Runs the app in the development mode.
+    Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+ 
+    The page will reload if you make edits.
+    You will also see any lint errors in the console.
+ 
+#### `npm test`
+ 
+    Launches the test runner in the interactive watch mode.
+ 
+#### `npm run build`
+ 
+    Builds the app for production to the `build` folder.
+    It correctly bundles React in production mode and optimizes the build for the best performance.
+ 
+    The build is minified and the filenames include the hashes.
+    Your app is ready to be deployed!
+ 
+#### `npm run eject`
