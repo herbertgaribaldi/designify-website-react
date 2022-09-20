@@ -3,7 +3,7 @@
 
 <div id="header" width="auto" heigth="auto" align="center">
 
-![1](![github-header](https://user-images.githubusercontent.com/107329000/191317779-fc8e5c91-1cb4-4f1d-a8d3-e6010ec9e2af.png))
+![github-header](https://user-images.githubusercontent.com/107329000/191317779-fc8e5c91-1cb4-4f1d-a8d3-e6010ec9e2af.png)
 
 </div>
 
@@ -33,9 +33,9 @@
 
 <div id="images-demo" width="auto" heigth="auto" align="center">
 
-![demo1](![designify-desktop-version](https://user-images.githubusercontent.com/107329000/191318156-6f01a2fb-ddbb-448a-b30f-5f54c5bac073.png))
+![designify-desktop-version](https://user-images.githubusercontent.com/107329000/191318156-6f01a2fb-ddbb-448a-b30f-5f54c5bac073.png)
 
-![demo2](![designify-mobile-version](https://user-images.githubusercontent.com/107329000/191318207-b73572e5-24e8-4dc6-a15e-8d86050769fa.png))
+![designify-mobile-version](https://user-images.githubusercontent.com/107329000/191318207-b73572e5-24e8-4dc6-a15e-8d86050769fa.png)
 
 </div>
 
